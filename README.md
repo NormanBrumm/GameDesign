@@ -1,4 +1,4 @@
-# Please dont change or delete anything without either commenting about what you changed/deleted.
+# Please dont change or delete anything without commenting about what you changed/deleted.
 This is in no real order, just ideas that were spewed from my mind, additions are welcome. (Would like comments about what was added as 
   well so I can look at it and get ideas from it myself :D)
 
