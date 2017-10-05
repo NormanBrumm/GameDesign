@@ -1,5 +1,6 @@
 # Please dont change or delete anything without either commenting about what you changed/deleted.
-This is in no real order, just ideas that were spewed from my mind, additions are welcome. 
+This is in no real order, just ideas that were spewed from my mind, additions are welcome. (Would like comments about what was added as 
+  well so I can look at it and get ideas from it myself :D)
 
 Terms I might use that you may or may not know the meaning of:
   DR - Damage Resistance
@@ -17,9 +18,12 @@ Current ideas for fairy powerups:
   heavy gravity fairy   - adds to melee damage, and also lets the cat trigger some pressure plates, but does make jumping harder, maybe 
                           also deal extra falling damage?
   fire fairy            - attacks by the main character light enemies on fire and deals damage over time, maybe change to poison fairy?
-  ice/cold fairy        - attacks lower the enemy damage and after X attacks will freeze the enemy (if we want to make th
+  ice/cold fairy        - attacks lower the enemy damage and after X attacks will freeze the enemy
   shield/guardian fairy - creates a barrier around the player that either reduces damage taken, or cancles a single attack every... 5?  
                           seconds
+  bomb fairy            - explode an enemy every 30? seconds. deals damage to the enemy targeted as well as dealing damage to every 
+                          enemy within melee? range.
+  
                           
   could make the fairys require energy for their effect to work? (a toggle key to turn on or off a fairy?)
   
