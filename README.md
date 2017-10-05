@@ -2,8 +2,8 @@
 
 This is in no real order, just ideas that were spewed from my mind
 
-(terms I might use that you may or may not know the meaning of)
-DR - Damage Resistance
+Terms I might use that you may or may not know the meaning of:
+  DR - Damage Resistance
 
 The game is a mario style world (sidescrolling and minimal up/down option, but I would really enjoy trying to build a full 2d world, 
   similar to metroid)
