@@ -1,6 +1,5 @@
-# so far:
-
-This is in no real order, just ideas that were spewed from my mind
+# Please dont change or delete anything without either commenting about what you changed/deleted.
+This is in no real order, just ideas that were spewed from my mind, additions are welcome. 
 
 Terms I might use that you may or may not know the meaning of:
   DR - Damage Resistance
