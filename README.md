@@ -32,11 +32,12 @@ Maybe make an orb or beam or station or even just a button that takes... ~90% or
  * HP set at 100 so that its easy to do % based damage. maybe let there be damage reduction powerups, but no hp powerups.
  * Energy set at 100 for the same reason that HP is.
  * does energy regenerate? and is it slow or semi fast?
- * does HP regenerate?
+ * does HP regenerate? (im leaning twards yes, but really slow, but thats also dependant on if the player gets to level)
  * are there hp/energy globs that get dropped or checkpoints or... 
  * melee attacks for sure while the sprite is a cat
  * ranged attacks are more problematic but it would be nice to have the option even if they are energy intensive.
  * could change the player sprites colors to indicate different elemental affinities? to do more/less damage depending on the enemy
+ * does the player get xp from killing things or completing tasks? (I like this idea because I love leveling in games, but also dislike this idea because it could detract from the get items to get more powerful)
     
 ### Ideas for enemies:
  * all attacks effect everything they should logically effect - I get tired of watching enemy attacks not deal damage to other enemies when they connect. not walking into eachother (normally), but things like bullets or energy beams or whatnot. 
