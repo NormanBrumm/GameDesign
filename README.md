@@ -41,4 +41,6 @@ Terms I might use that you may or may not know the meaning of:
  #### Assuming a cat player sprite:
    * birds of various colors/sizes who will swoop down
    * mice and other small critters weilding weapons
+   
+#### Works with almost any player sprite:
    * LepRecons - a leprechaun in tactical gear? carrying a gun. maybe make them the 'snipers' that so many games have in them? (aka, somthing off in the distance sending a red beam your way and if you trigger it then somthing is shot at you)
