@@ -11,16 +11,21 @@ Terms I might use that you may or may not know the meaning of:
 * In each level/area will be a fairy powerup and at stations (or inventory) the player can switch which fairy is equipped and so get past obstacles or simply to make any combat easier.
 
 ### Current ideas for fairy powerups:
-  * Light gravity fairy   - reduces gravity by some amount, makes the player not trigger any pressure plates?
-  * heavy gravity fairy   - adds to melee damage, and also lets the cat trigger some pressure plates, but does make jumping harder, maybe also deal extra falling damage?
-  * fire fairy            - attacks by the main character light enemies on fire and deals damage over time, maybe change to poison fairy? OR/and? when the fairy button is pushed deal 'fire' damage to everything on screen and ignite them? (possibly including the player)
-  * ice/cold fairy        - attacks lower the enemy damage and after X attacks will freeze the enemy. OR/and? when the fairy is used will freeze everything on screen that isnt resistant to cold for a time. possibly including the player if they dont have some type of cold resist?
-  * shield/guardian fairy - creates a barrier around the player that either reduces damage taken, or cancles a single attack every... 5? seconds, or every time the fairy button is pressed but will need to take a decent chunk of energy... or smallish amount of health? would let us make world achievments like unharmable where the player wouldnt be able to shield spam their way through it
-  * bomb fairy            - explode an enemy every 30? seconds. deals damage to the enemy targeted as well as dealing damage to every enemy within melee? range.
-  * key fairy - will let you past locked doors and into locked things that are not a digital keypad? would mainly be a treasure hunting/story fairy
+  * Light gravity fairy   - reduces gravity by some amount, makes the player not trigger any pressure plates? this fairy and small fairy could be the same things from different angles or they could be different enough
+  * Small fairy - makes the player smaller, which lets them into other areas, lets them jump... higher or not as high? reduces their hitbox for attacks as well as getting attacked.
+  * Heavy gravity fairy   - adds to melee damage, and also lets the cat trigger some pressure plates, but does make jumping harder, maybe also deal extra falling damage? this fairy and large fairy could be the same things from different angles or they could be different enough
+  * Large fairy - makes the player larger, making it so they cant get into some areas, but also increases their hitbox for attacks and getting attacked. prolly raise their damage, either makes them jump higher or not as high.
+  * Fire fairy - attacks by the main character light enemies on fire and deals damage over time, maybe change to poison fairy? OR/and? when the fairy button is pushed deal 'fire' damage to everything on screen and ignite them? (possibly including the player)
+  * Ice/cold fairy - attacks lower the enemy damage and after X attacks will freeze the enemy. OR/and? when the fairy is used will freeze everything on screen that isnt resistant to cold for a time. possibly including the player if they dont have some type of cold resist?
+  * Shield/guardian fairy - creates a barrier around the player that either reduces damage taken, or cancles a single attack every... 5? seconds, or every time the fairy button is pressed but will need to take a decent chunk of energy... or smallish amount of health? would let us make world achievments like unharmable where the player wouldnt be able to shield spam their way through it
+  * Bomb fairy - explode an enemy every 30? seconds. deals damage to the enemy targeted as well as dealing damage to every enemy within melee? range.
+  * Key fairy - will let you past locked doors and into locked things that are not a digital keypad? would mainly be a treasure hunting/story fairy
+  * Combat fairy - will shoot a beam? projectile? at the nearest enemy every 5? seconds. the attack will/will not go through to damage enemies on the other side (maybe make that the double effect?), and will do... 5? damage to enemie(s) that are hit. Could also make the fairy fly to that point and melee for a bit instead of shooting. can also make it only shoot when the fairy button is pressed
   
                           
-  could make the fairys require energy for their effect to work? (a toggle key to turn on or off a fairy?)
+Could make the fairys require energy for their effect to work? (a toggle key to turn on or off a fairy?)
+  
+Maybe make an orb or beam or station or even just a button that takes... ~90% or more energy that 'doubles' the effect of the fairy for a limited time?
   
 ### Player ideas:
  * The player will be a cat who (similarly to mario) is not explained, but is going from one side of each world to the other
