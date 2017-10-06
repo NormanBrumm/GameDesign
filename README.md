@@ -1,6 +1,8 @@
 # Please dont change or delete anything without commenting about what you changed/deleted.
 This is in no real order, just ideas that were spewed from my mind, additions are welcome. (Would like comments about what was added as  well so I can look at it and get ideas from it myself :D)
 
+The tilesets are also just ones that I grabbed from google real quick and are subject to being changed/removed from the tileset pool. Just trying to get started on assets for the game.
+
 Terms I might use that you may or may not know the meaning of:
  * DR - Damage Resistance
 
