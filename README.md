@@ -52,3 +52,21 @@ Maybe make an orb or beam or station or even just a button that takes... ~90% or
    
 #### Works with almost any player sprite:
    * LepRecons - a leprechaun in tactical gear? carrying a gun. maybe make them the 'snipers' that so many games have in them? (aka, somthing off in the distance sending a red beam your way and if you trigger it then somthing is shot at you)
+
+Josh's reorginizing 
+
+### Team Members
+  * Joshua Garr: Background Art, Animations
+  * Norman Brumm: Animations, Player and Enemy Art
+### Game Outline
+  * Game Name: Unicorns Must Die!!!
+  * Environment: Mario type world but with fairy themes added on.
+  * Protaganist: A Kitty
+  * Enemies: Unicorns and the obsticles made by them (possibly made by poop and rainbows). 
+  * Game Mechanics: jumping animations, attacking animations, Fairy Power Ups
+  * Number of Players: 1
+### Game Overview
+  * Basically we have the player control a Kitty Cat. The Cat's goal is to avoid the obstacles made by the Unicorn overlords
+    and defeat the Unicorns until you reach the end of the level. At the end of the level their will be a ultimate boss Unicorn
+    that the cat must defeat in order to clear the level. Through out the level there will be fairy power ups that gives the player some
+    kind of ability to the Kitty Cat. 
