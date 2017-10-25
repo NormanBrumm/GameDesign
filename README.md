@@ -53,7 +53,7 @@ Maybe make an orb or beam or station or even just a button that takes... ~90% or
 #### Works with almost any player sprite:
    * LepRecons - a leprechaun in tactical gear? carrying a gun. maybe make them the 'snipers' that so many games have in them? (aka, somthing off in the distance sending a red beam your way and if you trigger it then somthing is shot at you)
 
-Josh's reorginizing 
+Josh's Reorganizing 
 
 ### Team Members
   * Joshua Garr: Background Art, Background Animations
