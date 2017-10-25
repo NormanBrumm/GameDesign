@@ -56,8 +56,8 @@ Maybe make an orb or beam or station or even just a button that takes... ~90% or
 Josh's reorginizing 
 
 ### Team Members
-  * Joshua Garr: Background Art, Animations
-  * Norman Brumm: Animations, Player and Enemy Art
+  * Joshua Garr: Background Art, Background Animations
+  * Norman Brumm: Player and Enemy Animations, Player and Enemy Art
 ### Game Outline
   * Game Name: Unicorns Must Die!!!
   * Environment: Mario type world but with fairy themes added on.
