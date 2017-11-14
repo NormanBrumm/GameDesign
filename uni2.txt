@@ -1,0 +1,75 @@
+uni2.png
+size: 482, 842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 161, 1
+  size: 159, 92
+  orig: 159, 92
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 322, 1
+  size: 159, 96
+  orig: 159, 96
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 99
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 163, 99
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 197
+  size: 425, 160
+  orig: 425, 160
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 359
+  size: 413, 186
+  orig: 413, 186
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 547
+  size: 397, 173
+  orig: 397, 173
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 722
+  size: 295, 58
+  orig: 295, 58
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 782
+  size: 302, 59
+  orig: 302, 59
+  offset: 0, 0
+  index: -1
